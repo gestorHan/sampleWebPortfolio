@@ -89,54 +89,6 @@ h2 {
   padding: 20px;
 }
 
-#contactForm{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-#formContainer{
-  background-color: #342c7d;
-  display: flex;
-  flex-direction: column;
-  margin-top: 40px;
-  align-items: center;
-  border-radius: 10px;
-  width: 400px;
-}
-#formTitle{
-  margin-top: 25px;
-}
-
-.formElement{
-  margin: 10px;
-  border-radius: 10px;
-}
-
-.formElement textarea{
-  border: none;
-  resize: none;
-  border-radius: 10px;
-  width: 350px;
-}
-.formElement textarea::placeholder{
-  color: gray;
-}
-.formElement input{
-  height: 40px;
-  width: 350px;
-  border: none;
-  border-radius: 10px;
-}
-.formElement button {
-  border: none;
-  background-color: coral;
-  color: #342c7d;
-  font-weight: bold;
-  height: 40px;
-  border-radius: 10px;
-  width: 350px;
-}
 
 footer{
   position: fixed;
